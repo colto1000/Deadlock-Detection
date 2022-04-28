@@ -4,7 +4,7 @@ CSCE 4600.002 Project Group 22.
 
 ### Compilation Instructions
 Build with `make` \
-or Manually with: `g++ main.cpp -std=c++11` \
+*or Manually with: `g++ main.cpp -std=c++11`* \
 Clean build directory with `make clean`
 
 ### Runtime Instructions
