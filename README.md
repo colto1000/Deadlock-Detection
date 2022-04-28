@@ -1,6 +1,6 @@
 # Deadlock-Detection
 Deadlock detection algorithm implemented in C++. \
-CSCE 4600 Project Group 22.
+CSCE 4600.002 Project Group 22.
 
 ### Compilation Instructions
 Build with `make` \
