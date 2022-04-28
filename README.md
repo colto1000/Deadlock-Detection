@@ -14,6 +14,7 @@ Clean build directory with `make clean`
 ### Input File Guidelines
 The input file should match the following characteristics:
 - Any lines with comments must start with a `%` at the position 0
+- Each data should be on its own line, with no leading whitespace
 - First data should be `num_processes=[##]`
 - Second data should be `num_resources=[##]`
 - Third data should be number of units per resource, like `#,#,#`
